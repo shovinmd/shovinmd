@@ -1,7 +1,8 @@
 <!-- Animated Title -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shovin+Michel+David!;Developer+%7C+IoT+Maker+%7C+AI+Explorer;Building+Apps%2C+Web%2C+AI+%26+Robotics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Shovin+Michel+David!;Developer+%26+Builder;AI%2C+IoT+%26+Fullstack+Explorer" alt="Typing SVG" />
 </h1>
+
 
 <br>
 
