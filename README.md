@@ -16,12 +16,13 @@
 
 ## 🚀 About Me
 I'm a passionate **Full-Stack Developer**, **IoT Builder**, and **AI-driven System Designer**.  
-I love creating things that combine **hardware + software + intelligence**, from mobile apps to robotics and healthcare platforms.
+I love creating systems that combine **hardware + software + intelligence**, from robotics to web platforms.
 
-- 🔭 Currently building: **Arcular+ Healthcare Ecosystem**
-- 🤖 Working on: **Mini-Gem – ESP32 AI Voice Assistant**
-- 🌱 Learning: **Advanced AI Models, Angular, Cloud Deployments**
-- 🎯 Goal: Build intelligent systems that help people.
+- 🔭 Currently building: **LAC-R – An intelligent personal robot with face recognition, speech, and autonomous movement**
+- 🤖 Previously built: **Arcular+ – A cross-platform healthcare Ecosystem**
+- 🌱 Learning: **Robotics control, AI integration, ESP32/MCU systems**
+- 🎯 Goal: Build intelligent systems that interact, learn, and help people.
+
 
 ---
 
