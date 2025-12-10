@@ -70,6 +70,9 @@ A modern, connected healthcare system built with **Node.js, MongoDB, Flutter Web
   <a href="https://github.com/shovinmd/ArcularPluse-A-Unified-Healthcare-Ecosystem-Website">
     <img src="https://img.shields.io/badge/Website_Repo-000?style=for-the-badge&logo=github" />
   </a>
+  <a href="https://github.com/shovinmd/Arcular-Plus-A-Unified-Healthcare-Ecosystem">
+    <img src="https://img.shields.io/badge/app_Repo-000?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
