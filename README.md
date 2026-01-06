@@ -120,13 +120,23 @@ A fully structured **Node.js + MongoDB** backend project designed for real-world
 # 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shovinmd&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shovinmd&theme=tokyonight" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=shovinmd&show_icons=true&theme=tokyonight&hide_border=true" 
+    width="48%" 
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=shovinmd&theme=tokyonight&hide_border=true" 
+    width="48%" 
+  />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=shovinmd&theme=react-dark" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shovinmd&layout=compact&theme=tokyonight&hide_border=true" 
+    width="50%" 
+  />
 </p>
+
 
 ---
 
