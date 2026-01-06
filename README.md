@@ -56,14 +56,14 @@ I love creating systems that combine **hardware + software + intelligence**, fro
 ---
 
 ## 🌐 **1. Arcular+ – Unified Healthcare Ecosystem**
-A modern, connected healthcare system built with **Node.js, MongoDB, Flutter Web**, and cloud authentication.
+A modern, connected healthcare ecosystem built with **Node.js, MongoDB, Flutter Web**, and cloud authentication.
 
 ### 🔹 Features  
 - Patient, doctor, hospital, nurse, and lab modules  
 - Digital health records  
-- Firebase Auth  
+- Firebase Authentication  
 - REST API backend  
-- Future: AI-based health analysis  
+- AI-ready architecture  
 
 <p align="left">
   <a href="https://github.com/shovinmd/arcular-plus-backend">
@@ -73,22 +73,38 @@ A modern, connected healthcare system built with **Node.js, MongoDB, Flutter Web
     <img src="https://img.shields.io/badge/Website_Repo-000?style=for-the-badge&logo=github" />
   </a>
   <a href="https://github.com/shovinmd/Arcular-Plus-A-Unified-Healthcare-Ecosystem">
-    <img src="https://img.shields.io/badge/app_Repo-000?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/App_Repo-000?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
-## 🤖 **2. Mini-Gem (v1.0) – ESP32 AI Assistant**
-An advanced AI-powered personal voice assistant built on **ESP32 + Gemini 2.0 Flash**.
+## 🚆 **2. TransitAI – Smart City Public Transport Crowding Indicator**
+An AI-driven Smart City solution to **predict public transport crowd levels** using historical data, time, weather, holidays, and user feedback.
 
 ### 🔹 Features  
-- Dynamic face expressions & eye animations  
-- Gemini-powered voice response  
-- Alarms, tasks, timers, smart control  
-- Heartbeat sensor visualization  
-- REST API + OTA updates  
-- WiFi & local dashboard  
+- Crowd prediction: **Low / Medium / High**  
+- Early crowd spike alerts  
+- Smart route & time recommendations  
+- User-feedback–driven intelligence  
+- Hackathon-ready MVP  
+
+<p align="left">
+  <a href="https://github.com/shovinmd/TransitAI">
+    <img src="https://img.shields.io/badge/View_Project-00E5FF?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+## 🤖 **3. Mini-Gem (v1.0) – ESP32 AI Assistant**
+An advanced AI-powered personal assistant built on **ESP32 + Gemini 2.0 Flash**.
+
+### 🔹 Features  
+- Dynamic face & eye animations  
+- Gemini-powered voice interaction  
+- Alarms, timers & smart control  
+- OTA updates & local dashboard  
 
 <p align="left">
   <a href="https://github.com/shovinmd/Mini-Gem-v1.0">
@@ -98,16 +114,14 @@ An advanced AI-powered personal voice assistant built on **ESP32 + Gemini 2.0 Fl
 
 ---
 
-## 🏥 **3. Hospital Management System (HMS)**
-A fully structured **Node.js + MongoDB** backend project designed for real-world hospital workflows.
+## 🏥 **4. Hospital Management System (HMS)**
+A real-world **Node.js + MongoDB** backend system for hospital workflows.
 
 ### 🔹 Modules  
-- User Auth  
-- Doctors  
-- Patients  
+- User authentication  
+- Doctors & patients  
 - Appointments  
 - Billing  
-- Clean API structure  
 
 <p align="left">
   <a href="https://github.com/shovinmd/Hospital-Management-System-HMS">
@@ -115,13 +129,14 @@ A fully structured **Node.js + MongoDB** backend project designed for real-world
   </a>
 </p>
 
+
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=shovinmd&show_icons=true&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=shovinmd&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" 
     width="48%" 
   />
   <img 
@@ -133,9 +148,10 @@ A fully structured **Node.js + MongoDB** backend project designed for real-world
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=shovinmd&layout=compact&theme=tokyonight&hide_border=true" 
-    width="50%" 
+    width="45%" 
   />
 </p>
+
 
 
 ---
