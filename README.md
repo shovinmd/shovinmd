@@ -3,78 +3,65 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00E5FF&center=true&vCenter=true&random=false&width=800&lines=Hi+there!+I'm+Shovin+Michel+David;A+Passionate+Fullstack+Developer;AI+%26+Robotics+Enthusiast;Building+the+Future+with+IoT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00E5FF&center=true&vCenter=true&random=false&width=800&lines=Hi+there!+I'm+Shovin+Michel+David;Application+Developer+%26+Builder;Fullstack+%7C+AI+%7C+Robotics;Turning+Ideas+Into+Scalable+Apps" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=60&section=header" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Fullstack%20%7C%20AI%20%7C%20IoT-00E5FF?style=for-the-badge&logo=rocket">
-  <img src="https://img.shields.io/badge/Code-JS%20%7C%20Kotlin%20%7C%20Python-8A2BE2?style=for-the-badge&logo=github">
-  <img src="https://img.shields.io/badge/Status-Building%20LAC--R-green?style=for-the-badge&logo=robot">
+  <img src="https://img.shields.io/badge/Role-Application%20Developer-blue?style=for-the-badge&logo=googlechrome">
+  <img src="https://img.shields.io/badge/Expertise-Fullstack%20%7C%20AI-8A2BE2?style=for-the-badge&logo=codeforces">
+  <img src="https://img.shields.io/badge/Focus-IoT%20%26%20Robotics-00E5FF?style=for-the-badge&logo=arduino">
 </p>
 
 ---
 
-## 🚀 About Me
-I'm a **System Designer** who bridges the gap between hardware and software. I don't just write code; I build intelligence into physical machines.
-
-* 🔭 **Current Mission:** Developing **LAC-R** – An autonomous personal robot with face recognition & NLP.
-* 🤖 **Expertise:** Merging **ESP32/MCU systems** with **Cloud Backends** and **AI Frameworks**.
-* 🌱 **Learning Path:** Deepening knowledge in Robotics control & Edge AI.
-* 📫 **Reach Me:** [shovinmicheldavid1285@gmail.com](mailto:shovinmicheldavid1285@gmail.com)
+## 🚀 Professional Summary
+I am a dedicated **Application Developer** focused on building seamless user experiences and intelligent backends. My work spans across **Mobile (Flutter/Kotlin)**, **Web (React/Node.js)**, and **Embedded Systems (ESP32)**. I specialize in creating ecosystems where software interacts meaningfully with the real world.
 
 ---
 
-## 🧰 Tech Universe
+## 📱 Featured Applications
+
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **Arcular+** | A comprehensive Healthcare Ecosystem for doctors, patients, and labs. | `Flutter` `Node.js` `MongoDB` | [View Project](https://github.com/shovinmd/Arcular-Plus-A-Unified-Healthcare-Ecosystem) |
+| **TransitAI** | Smart City app for real-time public transport crowding predictions. | `AI` `React` `Python` | [View Project](https://github.com/shovinmd/TransitAI) |
+| **Mini-Gem AI** | A physical AI assistant with dynamic visual feedback and voice. | `ESP32` `Gemini AI` `C++` | [View Project](https://github.com/shovinmd/Mini-Gem-v1.0) |
+| **HMS System** | Professional Hospital Management backend with multi-role auth. | `Express` `MongoDB` `JWT` | [View Project](https://github.com/shovinmd/Hospital-Management-System-HMS) |
+
+---
+
+## 🧰 Technical Arsenal
 
 ### 💻 Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,kotlin,java,python,cpp,nodejs,express,react,flutter,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=js,ts,kotlin,java,python,cpp,nodejs,express,react,flutter,androidstudio,html,css" />
 </p>
 
-### 🛢 Infrastructure & Tools
+### 🛢 Databases & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,arduino,docker,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,arduino,docker,git,github,postman,figma" />
 </p>
 
 ---
 
-# 🚨 Featured Projects
-
-<details>
-<summary><b>🌐 1. Arcular+ – Healthcare Ecosystem</b></summary>
-A unified platform connecting Doctors, Patients, and Labs using Flutter and Node.js.
-</details>
-
-<details>
-<summary><b>🤖 2. Mini-Gem (v1.0) – ESP32 AI Assistant</b></summary>
-A physical AI companion powered by <b>Gemini 2.0 Flash</b> with dynamic eye animations.
-</details>
-
-<details>
-<summary><b>🚆 3. TransitAI – Smart City Transport</b></summary>
-Predictive AI for public transport crowding using real-time feedback and weather data.
-</details>
-
----
-
-# 📊 My Coding Journey
+# 📊 GitHub Activity (Fixed)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shovinmd&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shovinmd&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shovinmd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shovinmd&layout=compact&theme=tokyonight" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shovinmd&theme=tokyonight&hide_border=true" width="94%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shovinmd&theme=tokyonight&hide_border=false" width="94%" />
 </p>
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 Let's Collaborate
 <p align="left">
   <a href="mailto:shovinmicheldavid1285@gmail.com">
     <img src="https://img.shields.io/badge/Email-shovinmicheldavid1285@gmail.com-00E5FF?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -85,7 +72,5 @@ Predictive AI for public transport crowding using real-time feedback and weather
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=60&section=footer" width="100%"/>
 </p>
-
-<h3 align="center">⭐ Keep pushing the boundaries of what's possible! ⭐</h3>
