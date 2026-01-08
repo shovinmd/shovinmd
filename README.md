@@ -1,139 +1,70 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=shovinmd&label=PROFILE+VIEWS&color=00E5FF&style=flat-square" alt="visitor counter" />
+</p>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Shovin+Michel+David!;Developer+%26+Builder;AI%2C+IoT+%26+Fullstack+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00E5FF&center=true&vCenter=true&random=false&width=800&lines=Hi+there!+I'm+Shovin+Michel+David;A+Passionate+Fullstack+Developer;AI+%26+Robotics+Enthusiast;Building+the+Future+with+IoT" alt="Typing SVG" />
 </h1>
 
-
-<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header" width="100%"/>
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Fullstack%20%7C%20AI%20%7C%20IoT-00E5FF?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Code-JavaScript%20%7C%20Node.js%20%7C%20Kotlin%20%7C%20Flutter-8A2BE2?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Open%20Source-Learner-blueviolet?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-Fullstack%20%7C%20AI%20%7C%20IoT-00E5FF?style=for-the-badge&logo=rocket">
+  <img src="https://img.shields.io/badge/Code-JS%20%7C%20Kotlin%20%7C%20Python-8A2BE2?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/Status-Building%20LAC--R-green?style=for-the-badge&logo=robot">
 </p>
 
 ---
 
 ## 🚀 About Me
-I'm a passionate **Full-Stack Developer**, **IoT Builder**, and **AI-driven System Designer**.  
-I love creating systems that combine **hardware + software + intelligence**, from robotics to web platforms.
+I'm a **System Designer** who bridges the gap between hardware and software. I don't just write code; I build intelligence into physical machines.
 
-- 🔭 Currently building: **LAC-R – An intelligent personal robot with face recognition, speech, and autonomous movement**
-- 🤖 Previously built: **Arcular+ – A cross-platform healthcare Ecosystem**
-- 🌱 Learning: **Robotics control, AI integration, ESP32/MCU systems**
-- 🎯 Goal: Build intelligent systems that interact, learn, and help people.
-
+* 🔭 **Current Mission:** Developing **LAC-R** – An autonomous personal robot with face recognition & NLP.
+* 🤖 **Expertise:** Merging **ESP32/MCU systems** with **Cloud Backends** and **AI Frameworks**.
+* 🌱 **Learning Path:** Deepening knowledge in Robotics control & Edge AI.
+* 📫 **Reach Me:** [shovinmicheldavid1285@gmail.com](mailto:shovinmicheldavid1285@gmail.com)
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Universe
 
-### 💻 Programming Languages
+### 💻 Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,kotlin,java,python,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=js,ts,kotlin,java,python,cpp,nodejs,express,react,flutter,androidstudio" />
 </p>
 
-### 🚀 Frameworks & Tools
+### 🛢 Infrastructure & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flutter,androidstudio,react,angular" />
-</p>
-
-### 🛢 Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-</p>
-
-### 🔧 Hardware / Embedded
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino" />
-  <img src="https://img.shields.io/badge/ESP32-DevKit-blue?style=for-the-badge">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,arduino,docker,git,github,postman" />
 </p>
 
 ---
 
 # 🚨 Featured Projects
 
----
+<details>
+<summary><b>🌐 1. Arcular+ – Healthcare Ecosystem</b></summary>
+A unified platform connecting Doctors, Patients, and Labs using Flutter and Node.js.
+</details>
 
-## 🌐 **1. Arcular+ – Unified Healthcare Ecosystem**
-A modern, connected healthcare ecosystem built with **Node.js, MongoDB, Flutter Web**, and cloud authentication.
+<details>
+<summary><b>🤖 2. Mini-Gem (v1.0) – ESP32 AI Assistant</b></summary>
+A physical AI companion powered by <b>Gemini 2.0 Flash</b> with dynamic eye animations.
+</details>
 
-### 🔹 Features  
-- Patient, doctor, hospital, nurse, and lab modules  
-- Digital health records  
-- Firebase Authentication  
-- REST API backend  
-- AI-ready architecture  
-
-<p align="left">
-  <a href="https://github.com/shovinmd/arcular-plus-backend">
-    <img src="https://img.shields.io/badge/Backend_Repo-000?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/shovinmd/ArcularPluse-A-Unified-Healthcare-Ecosystem-Website">
-    <img src="https://img.shields.io/badge/Website_Repo-000?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/shovinmd/Arcular-Plus-A-Unified-Healthcare-Ecosystem">
-    <img src="https://img.shields.io/badge/App_Repo-000?style=for-the-badge&logo=github" />
-  </a>
-</p>
+<details>
+<summary><b>🚆 3. TransitAI – Smart City Transport</b></summary>
+Predictive AI for public transport crowding using real-time feedback and weather data.
+</details>
 
 ---
 
-## 🚆 **2. TransitAI – Smart City Public Transport Crowding Indicator**
-An AI-driven Smart City solution to **predict public transport crowd levels** using historical data, time, weather, holidays, and user feedback.
-
-### 🔹 Features  
-- Crowd prediction: **Low / Medium / High** - Early crowd spike alerts  
-- Smart route & time recommendations  
-- User-feedback–driven intelligence  
-- Hackathon-ready MVP  
-
-<p align="left">
-  <a href="https://github.com/shovinmd/TransitAI">
-    <img src="https://img.shields.io/badge/View_Project-00E5FF?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-## 🤖 **3. Mini-Gem (v1.0) – ESP32 AI Assistant**
-An advanced AI-powered personal assistant built on **ESP32 + Gemini 2.0 Flash**.
-
-### 🔹 Features  
-- Dynamic face & eye animations  
-- Gemini-powered voice interaction  
-- Alarms, timers & smart control  
-- OTA updates & local dashboard  
-
-<p align="left">
-  <a href="https://github.com/shovinmd/Mini-Gem-v1.0">
-    <img src="https://img.shields.io/badge/View_Project-00E5FF?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-## 🏥 **4. Hospital Management System (HMS)**
-A real-world **Node.js + MongoDB** backend system for hospital workflows.
-
-### 🔹 Modules  
-- User authentication  
-- Doctors & patients  
-- Appointments  
-- Billing  
-
-<p align="left">
-  <a href="https://github.com/shovinmd/Hospital-Management-System-HMS">
-    <img src="https://img.shields.io/badge/Backend_Repo-blueviolet?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
-
----
-
-# 📊 GitHub Stats
+# 📊 My Coding Journey
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shovinmd&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shovinmd&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shovinmd&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
@@ -143,16 +74,18 @@ A real-world **Node.js + MongoDB** backend system for hospital workflows.
 
 ---
 
-# 🤝 Connect With Me
+# 🤝 Let's Connect
 <p align="left">
   <a href="mailto:shovinmicheldavid1285@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00E5FF?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-shovinmicheldavid1285@gmail.com-00E5FF?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/shovinmd">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Follow_Me-8A2BE2?style=for-the-badge&logo=github" />
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
+</p>
 
-<h3 align="center">⭐ If you like my work, consider giving a star to my repositories! ⭐</h3>
+<h3 align="center">⭐ Keep pushing the boundaries of what's possible! ⭐</h3>
