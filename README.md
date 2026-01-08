@@ -1,4 +1,3 @@
-<!-- Animated Title -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Shovin+Michel+David!;Developer+%26+Builder;AI%2C+IoT+%26+Fullstack+Explorer" alt="Typing SVG" />
 </h1>
@@ -83,8 +82,7 @@ A modern, connected healthcare ecosystem built with **Node.js, MongoDB, Flutter 
 An AI-driven Smart City solution to **predict public transport crowd levels** using historical data, time, weather, holidays, and user feedback.
 
 ### 🔹 Features  
-- Crowd prediction: **Low / Medium / High**  
-- Early crowd spike alerts  
+- Crowd prediction: **Low / Medium / High** - Early crowd spike alerts  
 - Smart route & time recommendations  
 - User-feedback–driven intelligence  
 - Hackathon-ready MVP  
@@ -135,18 +133,19 @@ A real-world **Node.js + MongoDB** backend system for hospital workflows.
 # 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=shovinmd&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" 
-    width="55%" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=shovinmd&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shovinmd&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shovinmd&theme=tokyonight&hide_border=true" width="94%" />
+</p>
 
 ---
 
 # 🤝 Connect With Me
 <p align="left">
-  <a href="mailto:michel.shovin@universal.edu.in">
+  <a href="mailto:shovinmicheldavid1285@gmail.com">
     <img src="https://img.shields.io/badge/Email-00E5FF?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/shovinmd">
@@ -157,4 +156,3 @@ A real-world **Node.js + MongoDB** backend system for hospital workflows.
 ---
 
 <h3 align="center">⭐ If you like my work, consider giving a star to my repositories! ⭐</h3>
-
