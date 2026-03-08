@@ -1,158 +1,110 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Shovin+Michel+David!;Developer+%26+Builder;AI%2C+IoT+%26+Fullstack+Explorer" alt="Typing SVG" />
-</h1>
+# Shovin Michel David
 
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Fullstack%20%7C%20AI%20%7C%20IoT-00E5FF?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Code-JavaScript%20%7C%20Node.js%20%7C%20Kotlin%20%7C%20Flutter-8A2BE2?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Open%20Source-Learner-blueviolet?style=for-the-badge">
-</p>
+Full-Stack Developer focused on **AI-integrated embedded systems**, **distributed robotics**, and **production backend engineering**.
 
 ---
 
-## 🚀 About Me
-I'm a passionate **Full-Stack Developer**, **IoT Builder**, and **AI-driven System Designer**.  
-I love creating systems that combine **hardware + software + intelligence**, from robotics to web platforms.
+## Profile
+I build systems where cloud software and edge hardware operate as one reliable runtime.
 
-- 🔭 Currently building: **LAC-R – An intelligent personal robot with face recognition, speech, and autonomous movement**
-- 🤖 Previously built: **Arcular+ – A cross-platform healthcare Ecosystem**
-- 🌱 Learning: **Robotics control, AI integration, ESP32/MCU systems**
-- 🎯 Goal: Build intelligent systems that interact, learn, and help people.
-
+- Completed: **LAC-R** (multi-node intelligent personal robot)
+- Built: **Arcular+** (unified healthcare ecosystem)
+- Interests: robotics control, edge AI, realtime telemetry, fault-tolerant device communication
+- Goal: ship practical intelligent systems that can sense, decide, and act
 
 ---
 
-## 🧰 Tech Stack
-
-### 💻 Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,kotlin,java,python,c,cpp" />
-</p>
-
-### 🚀 Frameworks & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flutter,androidstudio,react,angular" />
-</p>
-
-### 🛢 Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-</p>
-
-### 🔧 Hardware / Embedded
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino" />
-  <img src="https://img.shields.io/badge/ESP32-DevKit-blue?style=for-the-badge">
-</p>
+## Core Competencies
+- Distributed embedded architecture (ESP32/MCU + central coordinator)
+- Realtime communication (ESP-NOW, Wi-Fi, UART bridge patterns)
+- Backend API engineering (Node.js, Express, MongoDB)
+- Cross-platform app development (Flutter)
+- AI service integration (STT, LLM inference flow, TTS)
 
 ---
 
-# 🚨 Featured Projects
+## Tech Stack
+- Languages: `JavaScript` `TypeScript` `Python` `Kotlin` `Java` `C` `C++`
+- Backend: `Node.js` `Express` `REST API` `Firebase Auth`
+- Frontend/App: `Flutter` `React` `Angular`
+- Data: `MongoDB` `MySQL` `Firebase`
+- Embedded: `ESP32` `Arduino UNO` `Sensor/Actuator integration`
 
 ---
 
-## 🌐 **1. Arcular+ – Unified Healthcare Ecosystem**
-A modern, connected healthcare ecosystem built with **Node.js, MongoDB, Flutter Web**, and cloud authentication.
+## Selected Projects
 
-### 🔹 Features  
-- Patient, doctor, hospital, nurse, and lab modules  
-- Digital health records  
-- Firebase Authentication  
-- REST API backend  
-- AI-ready architecture  
+### 1) LAC-R (Completed)  
+**Intelligent Personal Robot | ESP32 + UNO + AI Voice Stack**
 
-<p align="left">
-  <a href="https://github.com/shovinmd/arcular-plus-backend">
-    <img src="https://img.shields.io/badge/Backend_Repo-000?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/shovinmd/ArcularPluse-A-Unified-Healthcare-Ecosystem-Website">
-    <img src="https://img.shields.io/badge/Website_Repo-000?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/shovinmd/Arcular-Plus-A-Unified-Healthcare-Ecosystem">
-    <img src="https://img.shields.io/badge/App_Repo-000?style=for-the-badge&logo=github" />
-  </a>
-</p>
+Engineered a modular robotics platform with separate functional nodes and centralized orchestration.
+
+- Master-slave runtime architecture across multiple controllers
+- Voice pipeline integration: STT → LLM (Gemini) → TTS
+- Autonomous/manual movement modes with sensor-guided behavior
+- Realtime command + telemetry transport over hybrid links
+- OTA-capable embedded workflow and diagnostics-oriented design
+
+Repo: `https://github.com/shovinmd/LAC-R_Version-1.0`
 
 ---
 
-## 🚆 **2. TransitAI – Smart City Public Transport Crowding Indicator**
-An AI-driven Smart City solution to **predict public transport crowd levels** using historical data, time, weather, holidays, and user feedback.
+### 2) Arcular+  
+**Unified Healthcare Ecosystem | Node.js + MongoDB + Flutter**
 
-### 🔹 Features  
-- Crowd prediction: **Low / Medium / High** - Early crowd spike alerts  
-- Smart route & time recommendations  
-- User-feedback–driven intelligence  
-- Hackathon-ready MVP  
+Built a connected healthcare platform supporting multiple stakeholder workflows.
 
-<p align="left">
-  <a href="https://github.com/shovinmd/TransitAI">
-    <img src="https://img.shields.io/badge/View_Project-00E5FF?style=for-the-badge&logo=github" />
-  </a>
-</p>
+- Patient/doctor/hospital/lab role modules
+- Digital record and appointment workflow design
+- Cloud authentication and API-driven architecture
+- Structured backend boundaries for scale and AI extension
 
----
-
-## 🤖 **3. Mini-Gem (v1.0) – ESP32 AI Assistant**
-An advanced AI-powered personal assistant built on **ESP32 + Gemini 2.0 Flash**.
-
-### 🔹 Features  
-- Dynamic face & eye animations  
-- Gemini-powered voice interaction  
-- Alarms, timers & smart control  
-- OTA updates & local dashboard  
-
-<p align="left">
-  <a href="https://github.com/shovinmd/Mini-Gem-v1.0">
-    <img src="https://img.shields.io/badge/View_Project-00E5FF?style=for-the-badge&logo=github" />
-  </a>
-</p>
+Repos:  
+- `https://github.com/shovinmd/arcular-plus-backend`  
+- `https://github.com/shovinmd/ArcularPluse-A-Unified-Healthcare-Ecosystem-Website`  
+- `https://github.com/shovinmd/Arcular-Plus-A-Unified-Healthcare-Ecosystem`
 
 ---
 
-## 🏥 **4. Hospital Management System (HMS)**
-A real-world **Node.js + MongoDB** backend system for hospital workflows.
+### 3) TransitAI  
+**Smart Transport Crowding Indicator | Predictive Intelligence MVP**
 
-### 🔹 Modules  
-- User authentication  
-- Doctors & patients  
-- Appointments  
-- Billing  
+Designed a crowd-level prediction concept for public transit.
 
-<p align="left">
-  <a href="https://github.com/shovinmd/Hospital-Management-System-HMS">
-    <img src="https://img.shields.io/badge/Backend_Repo-blueviolet?style=for-the-badge&logo=github" />
-  </a>
-</p>
+- Context-aware prediction inputs (time, weather, holidays, feedback)
+- Alerting and recommendation-oriented output layer
+- Built as a fast iteration MVP with practical deployment potential
 
+Repo: `https://github.com/shovinmd/TransitAI`
 
 ---
 
-# 📊 GitHub Stats
+### 4) Mini-Gem (v1.0)  
+**ESP32 AI Assistant**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shovinmd&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shovinmd&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-</p>
+Implemented an embedded assistant with interactive voice and device-level control.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shovinmd&theme=tokyonight&hide_border=true" width="94%" />
-</p>
+- Gemini-driven response flow
+- Embedded UI animation + automation utilities
+- OTA/local control concepts
 
----
-
-# 🤝 Connect With Me
-<p align="left">
-  <a href="mailto:shovinmicheldavid1285@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00E5FF?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/shovinmd">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
-  </a>
-</p>
+Repo: `https://github.com/shovinmd/Mini-Gem-v1.0`
 
 ---
 
-<h3 align="center">⭐ If you like my work, consider giving a star to my repositories! ⭐</h3>
+### 5) Hospital Management System (HMS)  
+**Backend System | Node.js + MongoDB**
+
+Developed backend modules for core hospital operations.
+
+- Authentication and user management
+- Doctor/patient/appointment flows
+- Billing module foundations
+
+Repo: `https://github.com/shovinmd/Hospital-Management-System-HMS`
+
+---
+
+## Links
+- GitHub: `https://github.com/shovinmd`
+- Email: `mailto:shovinmicheldavid1285@gmail.com`
