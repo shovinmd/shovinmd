@@ -1,110 +1,165 @@
-# Shovin Michel David
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=900&color=00E5FF&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Shovin+Michel+David;Full-Stack+Developer+%7C+AI%2FIoT+Builder;Building+Real-Time+Intelligent+Systems" alt="Typing SVG" />
+</h1>
 
-Full-Stack Developer focused on **AI-integrated embedded systems**, **distributed robotics**, and **production backend engineering**.
-
----
-
-## Profile
-I build systems where cloud software and edge hardware operate as one reliable runtime.
-
-- Completed: **LAC-R** (multi-node intelligent personal robot)
-- Built: **Arcular+** (unified healthcare ecosystem)
-- Interests: robotics control, edge AI, realtime telemetry, fault-tolerant device communication
-- Goal: ship practical intelligent systems that can sense, decide, and act
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Fullstack%20%7C%20AI%20%7C%20Robotics-00E5FF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Stack-Node.js%20%7C%20Flutter%20%7C%20ESP32%20%7C%20MongoDB-111827?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Architecture-Distributed%20Embedded%20Systems-0EA5E9?style=for-the-badge">
+</p>
 
 ---
 
-## Core Competencies
-- Distributed embedded architecture (ESP32/MCU + central coordinator)
-- Realtime communication (ESP-NOW, Wi-Fi, UART bridge patterns)
-- Backend API engineering (Node.js, Express, MongoDB)
-- Cross-platform app development (Flutter)
-- AI service integration (STT, LLM inference flow, TTS)
+## 🚀 About Me
+I design and build **intelligent, distributed systems** that combine software, embedded hardware, and AI services.
+
+- ✅ Completed: **LAC-R** — intelligent personal robot with voice AI, multi-node ESP32 architecture, and autonomous movement  
+- 🧠 Built: **Arcular+** — unified healthcare ecosystem (backend + web + app)  
+- 🔬 Current interest: **robotics orchestration, edge AI, realtime telemetry, control systems**  
+- 🎯 Goal: engineer practical systems that can **sense, reason, and act**
 
 ---
 
-## Tech Stack
-- Languages: `JavaScript` `TypeScript` `Python` `Kotlin` `Java` `C` `C++`
-- Backend: `Node.js` `Express` `REST API` `Firebase Auth`
-- Frontend/App: `Flutter` `React` `Angular`
-- Data: `MongoDB` `MySQL` `Firebase`
-- Embedded: `ESP32` `Arduino UNO` `Sensor/Actuator integration`
+## 🧰 Tech Stack
+
+### Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,kotlin,java,c,cpp" />
+</p>
+
+### Frameworks / Runtime
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,angular,flutter,firebase" />
+</p>
+
+### Databases / Infra
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### Embedded / Hardware
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino" />
+  <img src="https://img.shields.io/badge/ESP32-Multi--Node%20Control-1D4ED8?style=for-the-badge" />
+</p>
 
 ---
 
-## Selected Projects
+## 🚨 Featured Projects
 
-### 1) LAC-R (Completed)  
-**Intelligent Personal Robot | ESP32 + UNO + AI Voice Stack**
+## 🤖 1. LAC-R — Intelligent Personal Robot (Completed)
+A production-grade robotics platform built with **ESP32 + Arduino UNO**, coordinated through a **master-slave architecture** with realtime communication and AI voice integration.
 
-Engineered a modular robotics platform with separate functional nodes and centralized orchestration.
+### Key Technical Highlights
+- Multi-node orchestration: Master hub + display + voice + sensor + motion controller  
+- Voice pipeline: **STT → LLM (Gemini) → TTS**  
+- Realtime command & telemetry over **ESP-NOW / Wi-Fi / UART bridge**  
+- Autonomous + manual mobility modes (line follow / obstacle avoid / manual control)  
+- OTA-ready firmware workflow and modular subsystem design
 
-- Master-slave runtime architecture across multiple controllers
-- Voice pipeline integration: STT → LLM (Gemini) → TTS
-- Autonomous/manual movement modes with sensor-guided behavior
-- Realtime command + telemetry transport over hybrid links
-- OTA-capable embedded workflow and diagnostics-oriented design
-
-Repo: `https://github.com/shovinmd/LAC-R_Version-1.0`
-
----
-
-### 2) Arcular+  
-**Unified Healthcare Ecosystem | Node.js + MongoDB + Flutter**
-
-Built a connected healthcare platform supporting multiple stakeholder workflows.
-
-- Patient/doctor/hospital/lab role modules
-- Digital record and appointment workflow design
-- Cloud authentication and API-driven architecture
-- Structured backend boundaries for scale and AI extension
-
-Repos:  
-- `https://github.com/shovinmd/arcular-plus-backend`  
-- `https://github.com/shovinmd/ArcularPluse-A-Unified-Healthcare-Ecosystem-Website`  
-- `https://github.com/shovinmd/Arcular-Plus-A-Unified-Healthcare-Ecosystem`
+<p align="left">
+  <a href="https://github.com/shovinmd/LAC-R_Version-1.0">
+    <img src="https://img.shields.io/badge/View_Project-00E5FF?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
-### 3) TransitAI  
-**Smart Transport Crowding Indicator | Predictive Intelligence MVP**
+## 🌐 2. Arcular+ — Unified Healthcare Ecosystem
+A full healthcare platform with role-based modules for patients, doctors, hospitals, labs, and operations.
 
-Designed a crowd-level prediction concept for public transit.
+### Highlights
+- Node.js + MongoDB backend APIs  
+- Flutter/Web clients and cloud authentication  
+- Digital records + appointment + workflow architecture  
+- Scalable module boundaries for future AI integration
 
-- Context-aware prediction inputs (time, weather, holidays, feedback)
-- Alerting and recommendation-oriented output layer
-- Built as a fast iteration MVP with practical deployment potential
-
-Repo: `https://github.com/shovinmd/TransitAI`
-
----
-
-### 4) Mini-Gem (v1.0)  
-**ESP32 AI Assistant**
-
-Implemented an embedded assistant with interactive voice and device-level control.
-
-- Gemini-driven response flow
-- Embedded UI animation + automation utilities
-- OTA/local control concepts
-
-Repo: `https://github.com/shovinmd/Mini-Gem-v1.0`
+<p align="left">
+  <a href="https://github.com/shovinmd/arcular-plus-backend">
+    <img src="https://img.shields.io/badge/Backend_Repo-000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/shovinmd/ArcularPluse-A-Unified-Healthcare-Ecosystem-Website">
+    <img src="https://img.shields.io/badge/Website_Repo-000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/shovinmd/Arcular-Plus-A-Unified-Healthcare-Ecosystem">
+    <img src="https://img.shields.io/badge/App_Repo-000?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
-### 5) Hospital Management System (HMS)  
-**Backend System | Node.js + MongoDB**
+## 🚆 3. TransitAI — Smart Transport Crowding Intelligence
+Predictive crowd analytics system for public transport using historical + contextual signals.
 
-Developed backend modules for core hospital operations.
+### Highlights
+- ML-ready feature pipeline (time/weather/holiday/feedback)  
+- Crowding classes: Low / Medium / High  
+- Early congestion alerts + recommendation logic  
+- Hackathon MVP with clear upgrade path
 
-- Authentication and user management
-- Doctor/patient/appointment flows
-- Billing module foundations
-
-Repo: `https://github.com/shovinmd/Hospital-Management-System-HMS`
+<p align="left">
+  <a href="https://github.com/shovinmd/TransitAI">
+    <img src="https://img.shields.io/badge/View_Project-00E5FF?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
-## Links
-- GitHub: `https://github.com/shovinmd`
-- Email: `mailto:shovinmicheldavid1285@gmail.com`
+## 🧠 4. Mini-Gem (v1.0) — ESP32 AI Assistant
+Embedded AI assistant with voice interaction and expressive visual feedback.
+
+### Highlights
+- Gemini-powered conversational interaction  
+- Animated face/eyes, timers, alarms, smart actions  
+- OTA support and local control dashboard
+
+<p align="left">
+  <a href="https://github.com/shovinmd/Mini-Gem-v1.0">
+    <img src="https://img.shields.io/badge/View_Project-00E5FF?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+## 🏥 5. Hospital Management System (HMS)
+Backend-focused hospital workflow platform.
+
+### Highlights
+- Authentication, role management, appointments, billing  
+- RESTful API architecture with MongoDB persistence  
+- Structured for real deployment scenarios
+
+<p align="left">
+  <a href="https://github.com/shovinmd/Hospital-Management-System-HMS">
+    <img src="https://img.shields.io/badge/Backend_Repo-1E1B4B?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shovinmd&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shovinmd&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shovinmd&theme=tokyonight&hide_border=true" width="94%" />
+</p>
+
+---
+
+## 🤝 Connect
+<p align="left">
+  <a href="mailto:shovinmicheldavid1285@gmail.com">
+    <img src="https://img.shields.io/badge/Email-00E5FF?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/shovinmd">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">Building reliable AI + IoT systems, one module at a time.</h3>
