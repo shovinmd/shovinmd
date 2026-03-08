@@ -58,7 +58,7 @@ A production-grade robotics platform built with **ESP32 + Arduino UNO**, coordin
 - OTA-ready firmware workflow and modular subsystem design
 
 <p align="left">
-  <a href="https://github.com/shovinmd/LAC-R_Version-1.0">
+  <a href="https://github.com/shovinmd/LAC-R-Version-1.0">
     <img src="https://img.shields.io/badge/View_Project-00E5FF?style=for-the-badge&logo=github" />
   </a>
 </p>
